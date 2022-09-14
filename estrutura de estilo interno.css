@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+      <head>
+          <title>Page Title</title>
+          <style>
+           body {
+           background-image:url("imagem.gif"); /* salve uma imagem em sua máquina e insira o nome e a extensão correta aqui ...exemplo: fundo.gif ou fundo.jpg */
+           background-repeat:repeat;
+           background-attachment:fixed;  /* altere os valores do e teste em seu editor Brackets */
+           }
+ 
+         </style> 
+      </head>
+<body>
+ 
+     <h1>Este é um cabeçalho </h1>
+     <p>Este é um parágrafo.</p>
+     <p>Este é outro parágrafo.</p>
+ 
+ 
+</body>
+</html>
