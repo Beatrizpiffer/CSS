@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+      <head>
+          <title>Página Teste</title>
+          <style>
+           body {
+           background-image:url("imagem.gif"); /* salve uma imagem em sua máquina e insira o nome e a extensão correta aqui ...exemplo: fundo.gif ou fundo.jpg */
+           background-repeat:no-repeat; 
+           background-attachment:fixed; 
+           background-position: center;  /* altere os valores do e teste em seu editor Brackets */
+           }
+ 
+         </style> 
+      </head>
+<body>
+ 
+     <h1>Título da página </h1>
+     <p>Texto da página</p>
+     <p>Outro texto da página</p>
+ 
+ 
+</body>
+</html>
